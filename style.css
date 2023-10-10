@@ -22,6 +22,13 @@
         display: inline;
         padding: 20px;
     }
+
+    nav a {
+        text-transform: uppercase;
+        color: aqua;
+        font-size: 30px;
+        text-decoration: none;
+    }
     
     
     #banner-topo {
